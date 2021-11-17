@@ -8,7 +8,7 @@ lo pueda eliminar si lo desea y no levantar sospechas pero una vez el computador
 parados en la ruta donde lo escondimos y si es asi ejecutamos el keylogger completamente gracias a la persistencia tratando
 asi de no levantar sospechas, bueno otra cosa es que debemos pasar este keylogger a un .exe para poderlo ejecutar con tan solo
 dos click's en windows,tambien debemos configurar un chatBot en telegram y poner tu token por que ahi te llegara todas las pulsaciones
-podemos enveverlo en un archivo y hacerlo indectetable troyanizando asi el keylogger en un archivo claro esta que antes debemos trabajar
+puede tratar de enveverlo en un archivo y hacerlo indectetable troyanizando asi el keylogger en un archivo claro esta que antes debemos trabajar
 un poco mas en el codigo para cambiarle el comportamiento y el nombre de variables o codificarlo para poder asi bypasear los antivirus
 
 
