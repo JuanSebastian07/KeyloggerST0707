@@ -2,8 +2,7 @@
 Keylogger para windows y linux 
 
 Bueno este keylogger esta enfocado para usuarios windows por la persistencia claro que tambien funcionara en linux
-pero no creara la persistencia en usuarios linux, tambien esta pensado para que la primera vez que sea ejecutado no
-haga nada solo se  escondera en una ruta especifica, creara la persistencia y se cerrara sin ningun aviso, esto para que la victima
+pero no creara la persistencia en usuarios linux, tambien esta pensado para que la primera vez que sea ejecutado se esconda en una ruta especifica, creara la persistencia y se cerrara sin ningun aviso, esto para que la victima
 lo pueda eliminar si lo desea y no levantar sospechas pero una vez el computador sea reiniciado o encendido nuevamente, el keylogger 
 se va ejecutar esto gracias a la persitencia y ahi verifica si esta parado en la ruta donde lo escondimos y si es asi seguira corriendo normalmente.
 
