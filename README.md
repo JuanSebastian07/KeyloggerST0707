@@ -8,6 +8,6 @@ se va ejecutar esto gracias a la persitencia y ahi verifica si esta parado en la
 
 Bueno otra cosa es que debemos pasar este keylogger a un .exe para poderlo ejecutar con tan solo
 dos click's en windows,tambien debemos configurar un chatBot en telegram y poner tu token por que ahi te llegara todas las pulsaciones de las teclas,
-puede tratar de embeberlo en un archivo troyanizando asi el keylogger, claro esta que antes debemoriamos hacerlo lo mas indectectable que podamos.
+puede tratar de embeberlo en un archivo troyanizando asi el keylogger, claro esta que antes deberemos hacerlo lo mas indectectable que podamos.
 
 <img src="Screenshots/TeclasPulsadas.jpeg" width="600" >
