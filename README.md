@@ -8,7 +8,7 @@ se va ejecutar esto gracias a la persitencia y ahi verifica si esta parado en la
 
 Bueno otra cosa es que debemos pasar este keylogger a un .exe para poderlo ejecutar con tan solo
 dos click's en windows,tambien debemos configurar un chatBot en telegram y poner tu token por que ahi te llegara todas las pulsaciones
-puede tratar de enveverlo en un archivo y hacerlo indectetable troyanizando asi el keylogger en un archivo claro esta que antes debemos trabajar
+puede tratar de embeber en un archivo y hacerlo indectetable troyanizando asi el keylogger en un archivo claro esta que antes debemos trabajar
 un poco mas en el codigo para cambiarle el comportamiento y el nombre de variables o codificarlo para poder asi bypasear los antivirus
 
 
