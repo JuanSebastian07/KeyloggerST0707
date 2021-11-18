@@ -12,6 +12,4 @@ puede tratar de enveverlo en un archivo y hacerlo indectetable troyanizando asi 
 un poco mas en el codigo para cambiarle el comportamiento y el nombre de variables o codificarlo para poder asi bypasear los antivirus
 
 
-<img src="Screenshots/Screenshot.png" width="600" >
-
 <img src="Screenshots/TeclasPulsadas.jpeg" width="600" >
